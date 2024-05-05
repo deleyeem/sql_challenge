@@ -6,8 +6,11 @@ As a new data engineer at Pewlett Hackard, the task is to research people who we
 
 ## Tools and Libraries Used
 SQLAlchemy
+
 PostgreSQL
+
 Python
+
 Jupyter Notebook
 
 ## Process Description
